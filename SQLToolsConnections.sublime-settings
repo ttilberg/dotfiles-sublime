@@ -1,0 +1,13 @@
+{
+  "connections": {
+    "Robot Inputs": {
+      "type"    : "sqsh",
+      "host"    : "192.168.20.200",
+      "username": "kapow_tires",
+      "password": "M0ranci3",
+      "database": "robot_tire_inputs",
+      "port": "1433"
+    }
+  },
+  "default": "Robot Inputs"
+}
